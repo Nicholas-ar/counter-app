@@ -1,4 +1,4 @@
-# contador
+# Counter
 
 A new Flutter application.
 
