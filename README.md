@@ -1,6 +1,6 @@
 # Counter
 
-A new Flutter application.
+A Flutter application for counting people in a space.
 
 ## Getting Started
 
